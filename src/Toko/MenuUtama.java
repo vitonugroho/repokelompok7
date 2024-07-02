@@ -19,7 +19,7 @@ public class MenuUtama extends javax.swing.JFrame {
      */
     public MenuUtama() {
         initComponents();
-        setTitle("App Penjualan");
+        setTitle("App Penjualan Kelompok 7");
         setExtendedState(MAXIMIZED_BOTH);
     }
 
