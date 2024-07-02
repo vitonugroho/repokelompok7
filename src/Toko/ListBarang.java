@@ -14,7 +14,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author PY7
+ *
  */
 public class ListBarang extends javax.swing.JFrame {
     

@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 /**
  *
- * @author PY7
+ *
  */
 public class Penjualan extends javax.swing.JFrame {
 

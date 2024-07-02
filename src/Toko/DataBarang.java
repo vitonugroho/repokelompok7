@@ -15,7 +15,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author PY7
+ *
  */
 public class DataBarang extends javax.swing.JFrame {
     koneksi koneksi = new koneksi();

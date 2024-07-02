@@ -9,7 +9,7 @@ import javax.swing.JInternalFrame;
 
 /**
  *
- * @author PY7
+ *
  */
 public class MenuUtama extends javax.swing.JFrame {
     private String judul;

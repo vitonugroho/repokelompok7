@@ -11,7 +11,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author PY7
+ *
  */
 public class koneksi {
     private static Connection koneksi;
